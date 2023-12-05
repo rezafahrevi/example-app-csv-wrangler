@@ -80,7 +80,7 @@ with c30:
     else:
         st.info(
             f"""
-                👆 Upload a .csv file first. Sample to try: [biostats.csv](https://people.sc.fsu.edu/~jburkardt/data/csv/biostats.csv)
+                👆 Unggah file .csv terlebih dahulu. Contoh untuk dicoba: [biostats.csv](https://people.sc.fsu.edu/~jburkardt/data/csv/biostats.csv)
                 """
         )
 
