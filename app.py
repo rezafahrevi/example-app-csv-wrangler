@@ -34,7 +34,7 @@ st.image(
     width=100,
 )
 
-st.title("CSV Wrangler")
+st.title("Analis sentiment")
 
 # st.caption(
 #     "PRD : TBC | Streamlit Ag-Grid from Pablo Fonseca: https://pypi.org/project/streamlit-aggrid/"
